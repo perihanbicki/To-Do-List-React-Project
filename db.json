@@ -1,0 +1,35 @@
+{
+  "todos": [
+    {
+      "id": "f40d5077-4e39-4440-abdf-da7bbe7033d6",
+      "title": "React projeyi bitir",
+      "status": "important",
+      "date": "26.08.2024"
+    },
+    {
+      "id": "576535b1-516e-4344-9467-95e8ec0a4398",
+      "title": "Js projeyi bitir",
+      "status": "important",
+      "date": "19.09.2024"
+    },
+    {
+      "id": "567e6029-63a3-4c29-b285-fd46919b89a6",
+      "title": "İngilizce pratik yap",
+      "status": "daily",
+      "date": "19.09.2024"
+    },
+    {
+      "id": "8253577d-3b6a-4f4e-b34b-769080e83e4b",
+      "title": "Yeni kitabı okumaya başla",
+      "status": "daily",
+      "date": "19.09.2024"
+    },
+    {
+      "id": "302bf7ad-9169-4cdb-aff2-0bf94408166e",
+      "title": "Toplantıya katıl",
+      "status": "job",
+      "date": "19.09.2024"
+    }
+  ],
+  "activity": []
+}
